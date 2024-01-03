@@ -55,10 +55,11 @@ i. https://stackoverflow.com/search?q=Prometheus
 ii. https://github.com/prometheus/prometheus  
 b. Selenium  
 c. OpenAl  
-d. Docker e. Milvus  
+d. Docker  
+e. Milvus  
 f. Go  
 i. https://stackoverflow.com/search?q=golang ii. https://github.com/golang/go  
-3. You will need to create developer accounts and API KEYS on GitHub and StackExchange  
+4. You will need to create developer accounts and API KEYS on GitHub and StackExchange  
 https://api.github.com  
 https://docs.github.com/en  
 Here is the URL to guide you on how to generate your GITHUB_TOKEN  
@@ -67,8 +68,8 @@ Create your GitHub personal access tokens from
 https://github.com/settings/tokens  
 https://api.stackexchange.com/  
 https://api.stackexchange.com/docs https://stackapps.com/apps/oauth/register  
-4. Use Prometheus to show how many API calls to GitHub and StackOverflow were made per second, and how much data was collected per second.  
-5. Run 3 experiments using data collected for the past 2 days, 7 days, and 45 days.  
+5. Use Prometheus to show how many API calls to GitHub and StackOverflow were made per second, and how much data was collected per second.  
+6. Run 3 experiments using data collected for the past 2 days, 7 days, and 45 days.  
 
 
 
