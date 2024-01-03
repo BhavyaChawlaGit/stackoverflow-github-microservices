@@ -58,7 +58,8 @@ c. OpenAl
 d. Docker  
 e. Milvus  
 f. Go  
-i. https://stackoverflow.com/search?q=golang ii. https://github.com/golang/go  
+i. https://stackoverflow.com/search?q=golang  
+ii. https://github.com/golang/go  
 4. You will need to create developer accounts and API KEYS on GitHub and StackExchange  
 https://api.github.com  
 https://docs.github.com/en  
