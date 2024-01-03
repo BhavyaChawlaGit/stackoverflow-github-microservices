@@ -1,7 +1,7 @@
 # stack_github_microservice
-** This project aims to collect data from StackOverflow and GitHub related to specific frameworks/libraries
+**This project aims to collect data from StackOverflow and GitHub related to specific frameworks/libraries
 and store the information in two separate databases, StackoverflowDB and GitHubDB, using Postgres as
-the database server. The chosen frameworks/libraries are Prometheus, Docker, and Go. **  
+the database server. The chosen frameworks/libraries are Prometheus, Docker, and Go.**    
 
 ## Technologies Used:  
 ● Programming Language: Go  
@@ -13,18 +13,18 @@ the database server. The chosen frameworks/libraries are Prometheus, Docker, and
 
 ## Steps:
 ### 1. Created Developer Accounts and API Keys 
-** GitHub **  
+**GitHub**  
 ● Generated a GitHub personal access token  
 ● Created a personal access token on GitHub  
-** StackOverflow **
+**StackOverflow**  
 ● Obtained the necessary API key.  
 ### 2. Running the Microservices
-Step 1: Clone the Repository  
+**Step 1:** Clone the Repository  
 bash  
 Copy code  
 git clone https://github.com/your-username/stackoverflow-github-microservices.git  
 cd src  
-Step 2: Build and Run Docker Containers  
+**Step 2:** Build and Run Docker Containers  
 docker-compose up --build   
 ### 3. Data Collection
 The microservices will start collecting data from StackOverflow and GitHub for the specified
